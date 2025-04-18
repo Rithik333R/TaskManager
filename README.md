@@ -3,6 +3,9 @@
 
 Welcome to the Task Manager Application! This is a full-stack web application built to help you manage your tasks efficiently. It includes user authentication (login/register), a task dashboard, task creation, editing, filtering, and deletion features. The frontend is developed using React, and the backend is powered by a Node.js/Express server with a MongoDB database.
 
+# Deployment on Vercel
+This project frontend is deployed on Vercel - https://task-manager-sepia-six.vercel.app/auth
+
 ## Table of Contents
 - [Features](#features)
 - [Prerequisites](#prerequisites)
